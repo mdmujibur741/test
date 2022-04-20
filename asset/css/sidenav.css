@@ -1,0 +1,29 @@
+.navbar{
+
+                                            background:#4d36d1;
+                                            width: 98%;
+                                            margin: auto;
+
+}
+.navbar .container-fluid{
+                                            background:#4d36d1;
+                                            color: #ffffff;
+}
+
+.nav-link:active,
+.nav-link:focus,
+.nav-link:hover{
+                                            background-color: #ffffff26;
+}
+
+.nav-item a{
+                                            color:#ffff;
+}
+
+.offcanvas-body{
+                                            background-color: #2A9DCC;
+}
+
+.dropdown-menu{
+                                             background: skyblue;
+}

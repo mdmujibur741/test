@@ -1,0 +1,19 @@
+.login_page{
+    background:#021E3A;
+    min-height: 100vh;
+    padding-top: 12rem;
+    color:#ffffff;
+    font-size: 1.4rem;
+}
+
+.login_page input{
+    border-radius:1rem;
+}
+
+.login_page .btn{
+    color: #ffffff;
+    background: #002575;
+    font-size: 1.7rem;
+    box-sizing: border-box;
+    padding: 1% 10%;
+}
